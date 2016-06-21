@@ -81,5 +81,8 @@ public class ApplicationController {
 	}
 }
 
+Pour tester l'application il suffit d'appeler : http://localhost:8080/application/
+
 Remarque : je ne vais pas expliquer les autres annotations de spring (peut être dans un autre exemple)
+ 
  
